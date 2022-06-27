@@ -1,0 +1,1 @@
+Exercícios feitos para melhor entendimento e aperfeiçoamento do curso discover da Rocketseat.
