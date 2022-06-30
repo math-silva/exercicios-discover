@@ -1,0 +1,24 @@
+{
+  "name": "exercicios-discover-git",
+  "version": "1.0.0",
+  "description": "Exercícios feitos para melhor entendimento e aperfeiçoamento do curso discover da Rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/math-silva/exercicios-discover.git"
+  },
+  "author": "Matheus Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/math-silva/exercicios-discover/issues"
+  },
+  "homepage": "https://github.com/math-silva/exercicios-discover#readme",
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
