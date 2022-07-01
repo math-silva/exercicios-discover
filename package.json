@@ -16,9 +16,13 @@
     "url": "https://github.com/math-silva/exercicios-discover/issues"
   },
   "homepage": "https://github.com/math-silva/exercicios-discover#readme",
+  "type": "module",
   "devDependencies": {
     "eslint": "^8.18.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }
