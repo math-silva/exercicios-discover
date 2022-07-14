@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Exercícios feitos para melhor entendimento e aperfeiçoamento do curso discover da Rocketseat.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/math-silva/exercicios-discover.git"
@@ -23,6 +20,7 @@
     "eslint-plugin-import": "^2.26.0"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
   }
 }

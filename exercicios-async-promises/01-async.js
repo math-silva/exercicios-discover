@@ -1,4 +1,4 @@
-const https = require('https');
+import https from 'https';
 
 const API = 'https://jsonplaceholder.typicode.com/users?_limit=3';
 
